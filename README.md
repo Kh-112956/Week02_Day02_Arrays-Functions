@@ -25,7 +25,7 @@ Create a file named practice.js to save your solutions.
 4-	Using push and unshift, make this array contain the numbers from zero through seven:
 
 		const arr = [2, 3, 4];
-
+(https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_variables_operators)
 		// your code here
 
 		arr; // => [0, 1, 2, 3, 4, 5, 6, 7]
@@ -36,6 +36,7 @@ Create a file named practice.js to save your solutions.
 
 ## Functions
 - make the above programs into their own functions.
-- bonus: Make a button that calls on each function in your html page.
-- bonus 2: Put the variables and operators lab into functions as well.
+- Bonus: Put the [variables and operators lab](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_variables_operators) into functions as well.
+- Bonus 2: Put the [conditions lab](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_conditions) into functions.
+- Bonus 3: Put the [Loops Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day01_Loops) into functions.
 
